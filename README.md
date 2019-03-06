@@ -1,4 +1,4 @@
-# Exerxixio22
+# Exercicio22
 
 #include <stdlib.h>
 #include <stdio.h>
